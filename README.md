@@ -1,5 +1,6 @@
-### Hi there 👋
+# Chris Lattman GitHub page 👋
 
+Chris Lattman GitHub page
 <!--
 **chrislattman/chrislattman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
