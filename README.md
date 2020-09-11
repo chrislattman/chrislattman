@@ -1,4 +1,4 @@
-# Chris Lattman GitHub page 👋
+# Chris Lattman GitHub page
 
 Chris Lattman GitHub page
 <!--
