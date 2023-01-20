@@ -1,6 +1,6 @@
 # Introduction
 
-I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in Java, Python, MATLAB, C. 
+I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in Java, Python, MATLAB, and C. 
 <!--
 **chrislattman/chrislattman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
