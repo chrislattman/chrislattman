@@ -1,4 +1,4 @@
-# Introduction
+# About Me
 
 I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in several languages, including Java, C (POSIX and Win32), Python, JavaScript, Go, and Rust.
 
