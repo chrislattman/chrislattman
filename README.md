@@ -23,7 +23,7 @@ Topics that I've covered:
 - [Remote procedure calls](https://github.com/chrislattman/test-rpc)
   - Also includes a little bit of Frida
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
-- Process tracing in [Linux](https://github.com/chrislattman/test-ptrace) and [Windows](https://github.com/chrislattman/test-windows-tracing)
+- Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87) and [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4)
 - Direct system calls in [Linux/macOS](https://gist.github.com/chrislattman/f550ead7a1f19fee57984da8c17fefed) and [Windows](https://gist.github.com/chrislattman/3e828429e653f36d465fc1dd588a4c3b)
 - [Web scraping](https://github.com/chrislattman/red-alert)
