@@ -12,6 +12,7 @@ Topics that I've covered:
 - [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
 - Compression with [zlib/gzip](https://github.com/chrislattman/test-zlib-gzip)
+- [Regex](https://github.com/chrislattman/test-regex)
 - The full SDLC process with various languages [here](https://github.com/chrislattman/DataStructures)
   - Also covers data structures and algorithms
 - Packet capture and analysis with [libpcap and Scapy](https://github.com/chrislattman/test-scapy)
