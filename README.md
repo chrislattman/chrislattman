@@ -11,6 +11,7 @@ Topics that I've covered:
 - A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/tiptime) app development
 - [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
+- [HTTP requests](https://github.com/chrislattman/test-http-requests)
 - Compression with [zlib/gzip](https://github.com/chrislattman/test-zlib-gzip)
 - [Regex](https://github.com/chrislattman/test-regex)
 - The full SDLC process with various languages [here](https://github.com/chrislattman/DataStructures)
