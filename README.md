@@ -1,6 +1,19 @@
 # About Me
 
-I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in several languages, including Java, C (POSIX and Win32), Python, JavaScript, Go, and Rust.
+I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in several languages, including Java, C (POSIX and Win32), C++, Python, JavaScript, Go, and Rust.
+I have covered several topics as detailed below, but my most passionate interests are:
+
+- Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL)
+- Kernel space development in Linux and Windows
+- Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, TLS, and broadly TCP/IP
+- Process tracing (ptrace, Frida)
+- Concurrent programming (multithreading, async/await pattern and futures)
+- Foreign function interfaces (calling C/C++ code from other languages and environments, including WebAssembly and iOS and Android apps)
+- Network programming (at the socket level)
+- Unit testing, code coverage, CI/CD (GitLab CI/CD and GitHub Actions)
+
+In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
+Virtualization technologies interest me, including virtual machines (VirtualBox, VMware, QEMU) and containers (Docker).
 
 Topics that I've covered:
 
