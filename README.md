@@ -8,11 +8,11 @@ I have covered several topics as detailed below, but my most passionate interest
 - Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, TLS, and broadly TCP/IP
 - Process tracing (ptrace, Frida)
 - Concurrent programming (multithreading, async/await pattern and futures)
-- Foreign function interfaces (calling C/C++ code from other languages and environments, including WebAssembly and iOS and Android apps)
 - Network programming (at the socket level)
+- Foreign function interfaces (calling C/C++ code from other languages and environments, including WebAssembly and iOS and Android apps)
 - Unit testing, code coverage, CI/CD (GitLab CI/CD and GitHub Actions)
 
-In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
+In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
 Virtualization technologies interest me, including virtual machines (VirtualBox, VMware, QEMU) and containers (Docker).
 
 Topics that I've covered:
@@ -22,6 +22,7 @@ Topics that I've covered:
 - [Applied cryptography](https://github.com/chrislattman/test-crypto)
 - Various build tools including [CMake](https://github.com/chrislattman/test-cmake), [Make](https://github.com/chrislattman/test-make), and [Maven](https://github.com/chrislattman/datastructuresmvn)
 - A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/diceroller) app development
+  - Both of them include foreign function interfaces to C code
 - [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [Built-in de/serialization methods](https://github.com/chrislattman/test-pickle)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
