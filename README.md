@@ -21,7 +21,7 @@ Topics that I've covered:
 - [Low level cryptographic primitives](https://github.com/chrislattman/Cryptography)
 - [Applied cryptography](https://github.com/chrislattman/test-crypto)
 - Various build tools including [CMake](https://github.com/chrislattman/test-cmake), [Make](https://github.com/chrislattman/test-make), and [Maven](https://github.com/chrislattman/datastructuresmvn)
-- A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/tiptime) app development
+- A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/diceroller) app development
 - [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [Built-in de/serialization methods](https://github.com/chrislattman/test-pickle)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
