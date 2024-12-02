@@ -3,7 +3,7 @@
 I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in several languages, including Java, C (POSIX and Win32), C++, Python, JavaScript, Go, and Rust.
 I have covered several topics as detailed below, but my most passionate interests are:
 
-- Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL)
+- Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
 - Kernel space development in Linux and Windows
 - Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, TLS, and broadly TCP/IP
 - Process tracing (ptrace, Frida)
