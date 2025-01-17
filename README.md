@@ -1,6 +1,6 @@
 # About Me
 
-I am a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I have coded in several languages, including Java, C (POSIX and Win32), C++, Python, JavaScript, Go, and Rust.
+I'm a recent graduate from Virginia Tech, having taken several courses in mathematics and computer science. I've coded in several languages, including Java, C (POSIX and Win32), C++, Python, JavaScript, Go, and Rust.
 I have covered several topics as detailed below, but my most passionate interests are:
 
 - Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
@@ -12,7 +12,7 @@ I have covered several topics as detailed below, but my most passionate interest
 - Foreign function interfaces (calling C/C++ code from other languages and environments, including WebAssembly and iOS and Android apps)
 - Unit testing, code coverage, CI/CD (GitLab CI/CD and GitHub Actions)
 
-In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
+In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I've also used FreeRTOS. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
 Virtualization technologies interest me, including virtual machines (VirtualBox, VMware, QEMU) and containers (Docker).
 
 Topics that I've covered:
@@ -41,6 +41,7 @@ Topics that I've covered:
   - Also includes a little bit of Frida
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
 - Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
+- [Bare metal C](https://github.com/chrislattman/test-bare-metal) coding for an Arduino Mega Rev3 board
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87) and [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4)
 - Direct system calls in [Linux/macOS](https://gist.github.com/chrislattman/f550ead7a1f19fee57984da8c17fefed) and [Windows](https://gist.github.com/chrislattman/3e828429e653f36d465fc1dd588a4c3b)
 - Low level memory management in [Linux/macOS](https://gist.github.com/chrislattman/205eb38ae5f8c07151266208f6f2e1a4) and [Windows](https://gist.github.com/chrislattman/e402cdbd1e4f95d0443e97f53c72ba82)
