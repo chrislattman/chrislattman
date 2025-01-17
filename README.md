@@ -4,7 +4,7 @@ I'm a recent graduate from Virginia Tech, having taken several courses in mathem
 I have covered several topics as detailed below, but my most passionate interests are:
 
 - Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
-- Kernel space development in Linux and Windows
+- Kernel space development in Linux and Windows, as well as embedded C development (FreeRTOS, bare metal)
 - Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, TLS, and broadly TCP/IP
 - Process tracing (ptrace, Frida)
 - Concurrent programming (multithreading, async/await pattern and futures)
@@ -12,7 +12,7 @@ I have covered several topics as detailed below, but my most passionate interest
 - Foreign function interfaces (calling C/C++ code from other languages and environments, including WebAssembly and iOS and Android apps)
 - Unit testing, code coverage, CI/CD (GitLab CI/CD and GitHub Actions)
 
-In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I've also used FreeRTOS. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
+In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
 Virtualization technologies interest me, including virtual machines (VirtualBox, VMware, QEMU) and containers (Docker).
 
 Topics that I've covered:
