@@ -41,7 +41,7 @@ Topics that I've covered:
   - Also includes a little bit of Frida
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
 - Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
-- [Bare metal C](https://github.com/chrislattman/test-bare-metal) coding for an Arduino Mega Rev3 board
+- [Bare metal C](https://github.com/chrislattman/test-bare-metal) coding for an Arduino Mega 2560 Rev3 board
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87) and [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4)
 - Direct system calls in [Linux/macOS](https://gist.github.com/chrislattman/f550ead7a1f19fee57984da8c17fefed) and [Windows](https://gist.github.com/chrislattman/3e828429e653f36d465fc1dd588a4c3b)
 - Low level memory management in [Linux/macOS](https://gist.github.com/chrislattman/205eb38ae5f8c07151266208f6f2e1a4) and [Windows](https://gist.github.com/chrislattman/e402cdbd1e4f95d0443e97f53c72ba82)
