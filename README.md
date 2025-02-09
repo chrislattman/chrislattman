@@ -23,8 +23,8 @@ Topics that I've covered:
 - Various build tools including [CMake](https://github.com/chrislattman/test-cmake), [Make](https://github.com/chrislattman/test-make), and [Maven](https://github.com/chrislattman/datastructuresmvn)
 - A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/diceroller) app development
   - Both of them include foreign function interfaces to C code
-- [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [Built-in de/serialization methods](https://github.com/chrislattman/test-pickle)
+- [JSON and XML encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
 - [HTTP requests](https://github.com/chrislattman/test-http-requests)
 - Compression with [zlib/gzip](https://github.com/chrislattman/test-zlib-gzip)
