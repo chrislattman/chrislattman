@@ -35,6 +35,7 @@ Topics that I've covered:
   - Also covers a little bit of full-stack development
 - [GitHub Actions](https://github.com/chrislattman/blogging-project) and [GitLab CI/CD](https://gitlab.com/chrislattman/blogging-project)
 - [Multithreaded socket programming](https://github.com/chrislattman/webserver)
+- [Buffered I/O](https://github.com/chrislattman/test-buffered-io)
 - [Async/await pattern](https://github.com/chrislattman/test-async)
 - [Foreign function interfaces](https://github.com/chrislattman/test-ffi)
 - [Remote procedure calls](https://github.com/chrislattman/test-rpc)
