@@ -42,7 +42,9 @@ Topics that I've covered:
   - Also includes a little bit of Frida
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
 - Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
-- [Bare metal C](https://github.com/chrislattman/test-bare-metal) coding for an Arduino Mega 2560 Rev3 board
+- Embedded projects:
+  - [Bare-metal C](https://github.com/chrislattman/test-bare-metal) coding for the Arduino Mega 2560 Rev3 board
+  - [Bare-metal C](https://github.com/chrislattman/test-xilinx-bare-metal-sw-only) project for the Arty Z7-20 board that uses AXI GPIO
 - [Serial/UART echo server](https://github.com/chrislattman/test-uart-echo-server) in Python as well as clients in C and Python
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87) and [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4)
 - Direct system calls in [Linux/macOS](https://gist.github.com/chrislattman/f550ead7a1f19fee57984da8c17fefed) and [Windows](https://gist.github.com/chrislattman/3e828429e653f36d465fc1dd588a4c3b)
