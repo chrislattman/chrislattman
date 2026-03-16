@@ -45,6 +45,7 @@ Topics that I've covered:
 - Embedded projects:
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal) application for the Arduino Mega 2560 Rev3 board
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico) application for the Raspberry Pi Pico 2 and 2 W boards
+  - [Bare-metal Rust](https://github.com/chrislattman/test-bare-metal-pico-rs) application for the Raspberry Pi Pico 2 board
   - [Bare-metal C](https://github.com/chrislattman/test-xilinx-bare-metal-sw-only) project for the Arty Z7-20 board that uses AXI GPIO
 - [Serial/UART echo server](https://github.com/chrislattman/test-uart-echo-server) in Python as well as clients in C and Python
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87) and [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4)
