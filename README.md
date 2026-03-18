@@ -35,6 +35,7 @@ Topics that I've covered:
   - Also covers a little bit of full-stack development
 - [GitHub Actions](https://github.com/chrislattman/blogging-project) and [GitLab CI/CD](https://gitlab.com/chrislattman/blogging-project)
 - [Multithreaded socket programming](https://github.com/chrislattman/webserver)
+  - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico-webserver) FreeRTOS and lwIP web server for the Raspberry Pi Pico 2 W board
 - [Buffered I/O](https://github.com/chrislattman/test-buffered-io)
 - [Async/await pattern](https://github.com/chrislattman/test-async)
 - [Foreign function interfaces](https://github.com/chrislattman/test-ffi)
