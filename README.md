@@ -44,6 +44,7 @@ Topics that I've covered:
   - Also includes a little bit of Frida
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
 - Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
+- [Finite state machines](https://github.com/chrislattman/test-fsm) in C and Rust
 - Embedded projects:
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal) application for the Arduino Mega 2560 Rev3 board
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico) application for the Raspberry Pi Pico 2 and 2 W boards
