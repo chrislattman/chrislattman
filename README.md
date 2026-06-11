@@ -4,7 +4,7 @@ I'm a recent graduate from Virginia Tech, having taken several courses in mathem
 I have covered several topics as detailed below, but my most passionate interests are:
 
 - Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
-- Kernel space development in Linux and Windows, as well as embedded C development (FreeRTOS, bare metal)
+- Kernel space development in Linux and Windows, as well as embedded C and Rust development (FreeRTOS, embassy-rs, bare metal)
 - Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, TLS, and broadly TCP/IP
 - Process tracing (ptrace, Frida)
 - Concurrent programming (multithreading, async/await pattern and futures)
