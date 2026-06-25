@@ -20,7 +20,7 @@ Topics that I've covered:
 - [Machine learning](https://github.com/chrislattman/coursera-ml) (admittedly an older course)
 - [Low level cryptographic primitives](https://github.com/chrislattman/Cryptography)
 - [Applied cryptography](https://github.com/chrislattman/test-crypto)
-- Various build tools including [CMake](https://github.com/chrislattman/test-cmake), [Make](https://github.com/chrislattman/test-make), and [Maven](https://github.com/chrislattman/datastructuresmvn)
+- Various build tools including [CMake](https://github.com/chrislattman/test-cmake), [CMake with Conan](https://github.com/chrislattman/test-openssl-conan), [Make](https://github.com/chrislattman/test-make), and [Maven](https://github.com/chrislattman/datastructuresmvn)
 - A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/diceroller) app development
   - Both of them include foreign function interfaces to C code
 - [Built-in de/serialization methods](https://github.com/chrislattman/test-pickle)
