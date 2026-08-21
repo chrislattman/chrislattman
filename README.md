@@ -24,6 +24,7 @@ Topics that I've covered:
 - A little bit of [iOS](https://github.com/chrislattman/scrumdinger) and [Android](https://github.com/chrislattman/diceroller) app development
   - Both of them include foreign function interfaces to C code
 - [Built-in de/serialization methods](https://github.com/chrislattman/test-pickle)
+- [Protobuf](https://github.com/chrislattman/test-protobuf)
 - [JSON, XML, and MessagePack encoding and decoding](https://github.com/chrislattman/test-json-xml)
 - [SQL](https://github.com/chrislattman/test-sql) and [MongoDB](https://github.com/chrislattman/test-mongodb)
 - [HTTP requests](https://github.com/chrislattman/test-http-requests)
