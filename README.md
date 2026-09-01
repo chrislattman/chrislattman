@@ -1,6 +1,6 @@
 # About Me
 
-I've coded in several languages, including Java, C#/.NET, C (POSIX and Win32), C++, Python, JavaScript, Go, and Rust.
+I've coded in several languages, including Java, C#/.NET, C, C++, Python, JavaScript, Go, and Rust.
 I have covered several topics as detailed below, but my most passionate interests are:
 
 - Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
