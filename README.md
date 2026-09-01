@@ -4,7 +4,7 @@ I've coded in several languages, including Java, C#/.NET, C, C++, Python, JavaSc
 I have covered several topics as detailed below, but my most passionate interests are:
 
 - Cryptography (low-level primitives and applied cryptography, i.e. OpenSSL/libcrypto)
-- Kernel space development in Linux and Windows, as well as embedded C and Rust development (FreeRTOS, Zephyr, embassy-rs, bare metal)
+- Kernel space development in Linux and Windows, as well as embedded C and Rust development (FreeRTOS, Zephyr, embassy-rs, RTIC, bare metal)
 - Network traffic analysis (libpcap, Scapy) on protocols such as HTTP, MQTT, TLS, and broadly TCP/IP
 - Process tracing (ptrace, Frida)
 - Concurrent programming (multithreading, async/await pattern and futures)
