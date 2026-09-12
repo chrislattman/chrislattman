@@ -15,6 +15,8 @@ I have covered several topics as detailed below, but my most passionate interest
 In general, I enjoy low level development (C, C++, Rust, assembly) for Windows, macOS, Linux, and Android. I frequently write Python scripts for prototyping. I'm also very familiar with the Linux terminal, including commands like `curl`, `ssh`, `tcpdump`, `lsof`, and others.
 Virtualization technologies interest me, including virtual machines (VirtualBox, VMware, QEMU) and containers (Docker).
 
+In addition to software development, I've also done some FPGA development using SystemVerilog for Xilinx SoCs. I've used the AXI4-Lite and AXI4-Stream protocols, AXI DMA, AXI FIFOs, and PeakRDL.
+
 Topics that I've covered:
 
 - [Machine learning](https://github.com/chrislattman/coursera-ml) (admittedly an older course)
