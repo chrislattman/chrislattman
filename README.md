@@ -49,7 +49,7 @@ Topics that I've covered:
 - Device drivers with user space clients in [Linux](https://github.com/chrislattman/test-ioctl) and [Windows](https://github.com/chrislattman/test-deviceiocontrol)
 - Process tracing in [Linux](https://github.com/chrislattman/test-ptrace), [macOS](https://github.com/chrislattman/test-macos-tracing), and [Windows](https://github.com/chrislattman/test-windows-tracing)
 - Embedded projects:
-  - [Bare-metal C](https://github.com/chrislattman/test-bare-metal) and [bare metal Rust](https://github.com/chrislattman/test-bare-metal-rs) applications for the Arduino Mega 2560 Rev3 board
+  - [Bare-metal C](https://github.com/chrislattman/test-bare-metal) and [bare-metal Rust](https://github.com/chrislattman/test-bare-metal-rs) applications for the Arduino Mega 2560 Rev3 board
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico) application for the Raspberry Pi Pico 2 and 2 W boards
   - [Bare-metal Rust](https://github.com/chrislattman/test-bare-metal-pico-rs) application for the Raspberry Pi Pico 2 board
   - NVIC examples on the Raspberry Pi Pico 2 in [bare-metal C](https://github.com/chrislattman/test-nvic) and [bare-metal Rust with RTIC](https://github.com/chrislattman/test-nvic-rs)
