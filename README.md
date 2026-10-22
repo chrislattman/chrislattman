@@ -53,7 +53,7 @@ Topics that I've covered:
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico) application for the Raspberry Pi Pico 2 and 2 W boards
   - [Bare-metal Rust](https://github.com/chrislattman/test-bare-metal-pico-rs) application for the Raspberry Pi Pico 2 board
   - NVIC examples on the Raspberry Pi Pico 2 in [bare-metal C](https://github.com/chrislattman/test-nvic) and [bare-metal Rust with RTIC](https://github.com/chrislattman/test-nvic-rs)
-  - QEMU AArch64 "virt" machine example in [bare-metal C](https://github.com/chrislattman/test-qemu-arm-virt)
+  - QEMU AArch64 "virt" machine example in [bare-metal C](https://github.com/chrislattman/test-qemu-arm-virt) and [bare-metal Rust](https://github.com/chrislattman/test-qemu-arm-virt-rs)
   - [Bare-metal C](https://github.com/chrislattman/test-xilinx-bare-metal-sw-only) project for the Arty Z7-20 board that uses AXI GPIO
   - [Bare-metal C and SystemVerilog](https://github.com/chrislattman/test-xilinx-hw-sw-co-design) hardware/software co-design project
 - [Finite state machines](https://github.com/chrislattman/test-fsm) in C and Rust
