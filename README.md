@@ -57,7 +57,7 @@ Topics that I've covered:
   - QEMU AArch64 "virt" machine example in [bare-metal C](https://github.com/chrislattman/test-qemu-arm-virt) and [bare-metal Rust](https://github.com/chrislattman/test-qemu-arm-virt-rs)
   - [Bare-metal C](https://github.com/chrislattman/test-xilinx-bare-metal-sw-only) project for the Arty Z7-20 board that uses AXI GPIO
   - [Bare-metal C](https://github.com/chrislattman/test-xilinx-zynq-ultrascale-plus) project for the Ultra96-v2 board
-  - [Bare-metal C and SystemVerilog](https://github.com/chrislattman/test-xilinx-hw-sw-co-design) hardware/software co-design project
+  - [Bare-metal C and SystemVerilog](https://github.com/chrislattman/test-xilinx-hw-sw-co-design) hardware/software co-design project for the Arty Z7-20 board
 - [Finite state machines](https://github.com/chrislattman/test-fsm) in C and Rust
 - [Serial/UART echo server](https://github.com/chrislattman/test-uart-echo-server) in Python as well as clients in C and Python
 - Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87), [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4), and [RV64I](https://gist.github.com/chrislattman/c5d974a14ea36588ea99188fb8b9c004)
