@@ -60,7 +60,7 @@ Topics that I've covered:
   - [Bare-metal C and SystemVerilog](https://github.com/chrislattman/test-xilinx-hw-sw-co-design) hardware/software co-design project for the Arty Z7-20 board
 - [Finite state machines](https://github.com/chrislattman/test-fsm) in C and Rust
 - [Serial/UART echo server](https://github.com/chrislattman/test-uart-echo-server) in Python as well as clients in C and Python
-- Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87), [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4), and [RV64I](https://gist.github.com/chrislattman/c5d974a14ea36588ea99188fb8b9c004)
+- Inline assembly for [x86-64](https://gist.github.com/chrislattman/8a81d2d12f0c3a875903e0e97cae7f87), [AArch64](https://gist.github.com/chrislattman/6fdc1dd3babb43f04c74d773157881f4), and [RV64GC](https://gist.github.com/chrislattman/c5d974a14ea36588ea99188fb8b9c004)
 - Direct system calls in [Linux/macOS](https://gist.github.com/chrislattman/f550ead7a1f19fee57984da8c17fefed) and [Windows](https://gist.github.com/chrislattman/3e828429e653f36d465fc1dd588a4c3b)
 - Low level memory management in [Linux/macOS](https://gist.github.com/chrislattman/205eb38ae5f8c07151266208f6f2e1a4) and [Windows](https://gist.github.com/chrislattman/e402cdbd1e4f95d0443e97f53c72ba82)
 - Shared memory between processes in [Linux/macOS](https://gist.github.com/chrislattman/39cba2fdb21a044a0b5bcea230988e08) and [Windows](https://gist.github.com/chrislattman/eff797931d75cb7c878bd33ea247bc19)
