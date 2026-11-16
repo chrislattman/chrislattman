@@ -42,6 +42,7 @@ Topics that I've covered:
   - [Bare-metal C](https://github.com/chrislattman/test-bare-metal-pico-webserver) FreeRTOS and lwIP web server for the Raspberry Pi Pico 2 W board
   - [Bare-metal Rust](https://github.com/chrislattman/test-bare-metal-pico-rs-webserver) embassy-net (embassy and smoltcp) web server for the Raspberry Pi Pico 2 W board
   - [Bare-metal C](https://github.com/chrislattman/test-xilinx-zynq-7000-webserver) FreeRTOS and lwIP web server for the Arty Z7-20 board
+  - QEMU AArch64 "virt" machine [bare-metal C](https://github.com/chrislattman/test-qemu-arm-virt-webserver) (FreeRTOS + lwIP) and [bare-metal Rust](https://github.com/chrislattman/test-qemu-arm-virt-rs-webserver) (embassy-net) projects
 - [Buffered I/O](https://github.com/chrislattman/test-buffered-io)
 - [Async/await pattern](https://github.com/chrislattman/test-async)
 - [Foreign function interfaces](https://github.com/chrislattman/test-ffi)
